@@ -5,6 +5,12 @@ This Serverless Application project focuses on creating a scalable and secure AP
 # Purpose
 The primary aim of this project is to build an efficient, serverless environment that automates API-based interactions and allows for seamless data retrieval and storage. DynamoDB serves as the backend storage with email as the partition key to interact efficiently with Lambda functions. API Gateway facilitates routing, enabling a structured setup for invoking Lambda functions. This infrastructure ensures smooth deployment and a robust API layer with HTTPS support for secure access
 
+
+# Project Diagram
+
+![Blank diagram](https://github.com/user-attachments/assets/efac46cd-8534-4ef3-82df-d80af9bd6739)
+
+
 # Steps
 ## 1. create Dynamodb 
 
